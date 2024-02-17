@@ -64,7 +64,7 @@ with st.expander("PROJECT DETAILS"):
     st.write('KN --> K-Neighbours')
 
 with st.expander('EXAMPLE PHISHING URLs:'):
-    st.write('_https://!/hosts//_')
+    st.write('_https://appdecentralized.pages.dev/app/_')
     st.caption('PHISHING WEB PAGES HAVE SHORT LIFECYCLE! SO, THE EXAMPLES SHOULD BE UPDATED!')
 
 choice = st.selectbox("Please select your machine learning model",
